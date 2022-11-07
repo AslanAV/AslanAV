@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Aslan
-#### I'm a junior PHP Developer
+#### I'm PHP Developer
 Since August 2021, I have been studying at Hexlet under the PHP developer program. Finished 3 projects out of 4.
 
 Skills: PHP / Laravel / Bootstrap / Composer / Slim / Docker
